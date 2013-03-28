@@ -170,3 +170,8 @@ NSDictionary *keyedShit = @{
  * Categories should be named for the sort of functionality they provide. Don't create umbrella categories.
  * Category methods should always be prefixed.
  * If you need to expose private methods for subclasses or unit testing, create a class extension named `Class+Private`.
+ 
+## Objective C Style Guide References
+
+ * [Google Obj-C StyleGudie](http://google-styleguide.googlecode.com/svn/trunk/objcguide.xml).
+ 
