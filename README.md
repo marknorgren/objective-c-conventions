@@ -173,5 +173,6 @@ NSDictionary *keyedShit = @{
  
 ## Objective C Style Guide References
 
- * [Google Obj-C StyleGudie](http://google-styleguide.googlecode.com/svn/trunk/objcguide.xml).
+ * [Google Obj-C Style Guide](http://google-styleguide.googlecode.com/svn/trunk/objcguide.xml).
+ * [NYTimes style Guide](https://github.com/NYTimes/objective-c-style-guide)
  
